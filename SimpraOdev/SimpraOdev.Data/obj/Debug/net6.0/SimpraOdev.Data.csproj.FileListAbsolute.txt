@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\bin\Debug\net6.0\SimpraOdev.Data.deps.json
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\bin\Debug\net6.0\SimpraOdev.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\bin\Debug\net6.0\SimpraOdev.Data.dll
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\bin\Debug\net6.0\SimpraOdev.Data.pdb
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.dll
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\refint\SimpraOdev.Data.dll
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.pdb
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\SimpraOdev.Data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Simpra Bootcamp\aw2-berkbstnc\SimpraOdev\SimpraOdev.Data\obj\Debug\net6.0\ref\SimpraOdev.Data.dll
